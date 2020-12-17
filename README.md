@@ -42,6 +42,7 @@ In terms of profitability, urban cities contributed the greatest proportion of t
 
 Looking at total fares by city over the course of the year, we can see that the total fare per week remains relatively constant betwen January and May for all three city types. There does appear to be a slight spike in total fares for all three city types in the last week of February, but other than that there aren't any particular months that appear to be significantly more or less profitable. 
 
+![](analysis/PyBer_fare_summary.png)
 
 #### 4. Average Fare per Ride
 The average ride fare in urban cities was the lowest at $24.53 per ride. The average ride fare in suburban cities was slightly higher at $30.97 per ride. The highest average ride fare was observed in rural cities at $34.62 per ride. Rural cities had a high degree of variability in the average ride fare, which is likely due to having some rides with longer distances due to the spread out nature of rural cities. 
