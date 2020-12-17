@@ -75,16 +75,16 @@ We can see the data follow a trend based on city type. In urban cities, which ar
 Based on this information, we can make a couple of recommendations to help improve the disparity in total rides and drivers between rural cities, and more populated suburban and urban cities.  
 
 
-1. *Provide incentives to drivers for accepting rides in rural cities. 
+1. **Provide incentives to drivers for accepting rides in rural cities.** 
 
    Increasing the number of drivers in rural cities may influence more riders to download and use the app. The low demand in rural areas may be a cyclical problem. If riders in rural areas have issues finding available drivers, they may be less likely to use the app in the future. In turn drivers will be less likely to go to these areas knowing it will de difficult to find rides. If we first increase driver availability, riders in rural cities will begin to use the app more regularly. 
  
  
-2. *Increase ride share app advertising in rural cities and offer discounts to drivers.
+2. **Increase ride share app advertising in rural cities and offer discounts to drivers.**
 
    Once riders in rural areas become used to using PyBer, rates can gradually increase, but to draw these customers in initially, promotions and discounts should be offered. Social media campaigns targeted to rural areas can also be helpful in increasing rider demand as these people already have familiarity using apps.
   
 
-3. *Include an "call in" alternative to the app.
+3. **Include an "call in" alternative to the app.**
 
    People who don't have access to smart devices are unable to use ride share apps, and this is more common in rural areas compared to suburbuan and urban areas. Having a phone number that people could call in on to request a ride, similar to a taxi service, could increase rider demand in all city types, but especially in rural cities.
